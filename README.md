@@ -5,3 +5,5 @@ This is an optimized tattoo store script, which includes multiple tattoos (All o
 - 0.01ms
 - Just add the SQL
 - And start the script !
+
+Video: https://youtu.be/Mzpy6L38m_Q
