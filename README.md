@@ -7,3 +7,4 @@ This is an optimized tattoo store script, which includes multiple tattoos (All o
 - And start the script !
 
 Video: https://youtu.be/Mzpy6L38m_Q
+Discord: https://discord.gg/W28UXTSfmX
